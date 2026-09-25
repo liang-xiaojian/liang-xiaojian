@@ -46,6 +46,19 @@ Fangyuan Sun, Pu Duan, and Tianwei Zhang.
 
 ### 2026
 
+**Felid: A Flexible and Efficient Design for Transformer Fine-Tuning over Encrypted Data**  
+Linru Zhang, Jun Jie Sim, Xiangning Wang, Jiahao Zhong, Kaiyu Zhou,
+Huanyi Ye, Yongsen Zheng, Lushan Song, **Xiaojian Liang**, Yingting Liu,
+Yujing Sun, Huaxiong Wang, Pu Duan, and Kwok-Yan Lam.  
+*Advances in Neural Information Processing Systems (NeurIPS), 2026.
+**Oral Presentation**.*
+
+**Capricorn: Highly Efficient and Secure Mixture of Experts Inference Framework**  
+Lushan Song†, **Xiaojian Liang**†, Shishuai Du†, Jun Jie Sim, Yingting Liu,
+Xin Zhang, Jiang-Ming Yang, and Pu Duan.  
+*Advances in Neural Information Processing Systems (NeurIPS), 2026.
+Poster Presentation.*
+
 **Pisces: Cryptography-based Private Retrieval-Augmented Generation with Dual-Path Retrieval**  
 **Xiaojian Liang**†, Lushan Song†, Shishuai Du†, Weicheng Zhu,
 Tan Li Hui Faith, Jun Jie Sim, Haibing Jin, Zhenghao Wu, Yingting Liu,
@@ -86,7 +99,7 @@ LNCS 12973, pp. 147–168, 2021.*
 [[DOI](https://doi.org/10.1007/978-3-030-88428-4_8)]
 [[ePrint](https://eprint.iacr.org/2021/613)]
 
-† Equal contribution.
+† Equal contribution (co-first authors).
 
 ## Research Software
 
